@@ -1,12 +1,25 @@
-<h1>Hi 👋, I'm DevOps Engineer</h1>
-<p>A passionate DevOps Engineer from the United Kingdom</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://dev.to/solaakin" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
-<a target="_blank" href="https://www.instagram.com/solaakinworld" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+The Greenwood Library website focuses on enhancing the website of the Greenwood Community Library, a vital hub for local residents seeking educational resources, literary engagement, and community events. The current website includes standard pages such as Home, About Us, Events, and Contact Us. However, it lacks interactive and up-to-date content that promotes user engagement and community involvement.
+
+1. New Repository
+This involves opening a new repository, the startup process
+![New Repo](./img/1.NewRepository.png)
+
+2. Creation of Remote Repository
+The naming of the website and creation of the remote repositiory.
+![Remote Repository](./img/2.CreationofRemoteRepository.png)
+
+3. Copying Repository cloning
+Copying of the new creation of the website for clonning
+![Copying Clonning](./img/3.3.CopyRepoClone.png)
+
+4 Clonning
+The new repository been clone to the local Repository.
+![Clonnig](./img/4.clonning.png)
+
+5 Creation of Web Pages
+ The add on of new web pages to the website.
+ ![](./img/5.CreationOfWebPages.png)
+
+ 6. Home page
+ This is the Home page of the website.
+ ![Home page](./img/6.HomePage.png)
