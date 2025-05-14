@@ -23,3 +23,15 @@ The new repository been clone to the local Repository.
  6. Home page
  This is the Home page of the website.
  ![Home page](./img/6.HomePage.png)
+
+ 7 Staging And Commiting Project
+ The ability f Staging and commiting the project
+ ![Staging&commiting](./img/7.StagingAndCommitingProject.png)
+
+ 8 Git Push
+ Process of pushing into the local repository
+ ![GitPush](./img/8.GitPush.png)
+
+ 9 Invitation of Morgan & James to collaborator
+ Both collaborators have been sent invitaton 
+ ![Invitations](./img/9.InvitationOfMorganAndJamesToCollaborator.png)
