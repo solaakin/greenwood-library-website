@@ -110,4 +110,12 @@ The code of the Event
 
 28 Jamie Stage Commit Push Branch Origin Main.
 The Branch origin commit
-![](./img/28.JamieStageCommitPushBranchOriginMain.png)
+![Branch commit](./img/28.JamieStageCommitPushBranchOriginMain.png)
+
+29 Jamie Compare and Pull.
+![JamieCompare](./img/29.JamieCompare&Pull.png)
+
+30.Jamie Aceepted Pull Request
+The Pull Requested has now been accepted.
+![](./img/30.JamieAcceptedPULLRequest.png)
+
