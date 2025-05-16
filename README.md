@@ -117,5 +117,13 @@ The Branch origin commit
 
 30.Jamie Aceepted Pull Request
 The Pull Requested has now been accepted.
-![](./img/30.JamieAcceptedPULLRequest.png)
+![Jamie Pull](./img/30.JamieAcceptedPULLRequest.png)
+
+31. Jamie Merge And Pull Request
+The Request has been Merge.
+![Jamie Merge](./img/31.JamieMergePullRequest.png)
+
+32.Jamie Pull Request Successfully
+The Request is a Success.
+![Successfully done](./img/32.JamiePullRequestSuccessfully.png)
 
